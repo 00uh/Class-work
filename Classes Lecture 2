@@ -1,0 +1,13 @@
+class Human:
+	# A simple class
+	# attribute
+	attr1 = "human"
+	attr2 = "student"
+
+	# A sample method
+	def fun(self):
+		print("I'm a", self.attr1)
+		print("I'm a", self.attr2)
+# Driver code
+# Object instantiation
+Rodger = Human()
